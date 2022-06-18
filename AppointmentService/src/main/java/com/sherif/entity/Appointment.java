@@ -22,8 +22,6 @@ public class Appointment {
 	
 	private String cancelReason;
 	
-	
-	
 	public long getId() {
 		return id;
 	}
